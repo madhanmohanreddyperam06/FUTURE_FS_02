@@ -169,8 +169,9 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 📞 Support
 
-For support or questions, please open an issue in the repository or contact the development team.
-
+For support or questions, please open an issue in the repository or contact 
+-Gmail: madhanmohanreddyperam06@gmail.com
+-GitHub: https://github.com/madhanmphanreddyperam06
 ---
 
 **Happy Shopping! 🛒**

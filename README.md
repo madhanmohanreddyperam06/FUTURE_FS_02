@@ -35,7 +35,7 @@ A modern, full-stack online store built with Next.js, TypeScript, and Tailwind C
 
 1. **Clone the repository**
    ```bash
-   git clone <repository-url>
+   git clone <https://github.com/madhanmohanreddyperam06/FUTURE_FS_02.git>
    cd mm-store
    ```
 
